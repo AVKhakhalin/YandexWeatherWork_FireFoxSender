@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="input_city_info_title_margin">20dp</dimen>
+    <dimen name="input_city_info_title_text_size">20sp</dimen>
+    <dimen name="input_string_info_city_name_margin_start">10dp</dimen>
+    <dimen name="input_string_info_city_name_title_text_size">20sp</dimen>
+    <dimen name="input_string_info_city_field_text_size">20sp</dimen>
+    <dimen name="input_city_info_lan_text_size">20sp</dimen>
+    <dimen name="input_city_info_lan_margin_start">10dp</dimen>
+    <dimen name="input_city_info_lat_field_example_text_size">20sp</dimen>
+    <dimen name="input_city_info_lon_title_text_size">20sp</dimen>
+    <dimen name="input_city_info_lon_margin_start">10dp</dimen>
+    <dimen name="input_city_info_lon_lon_field_example_text_size">20sp</dimen>
+    <dimen name="input_city_info_country_title_text_size">20sp</dimen>
+    <dimen name="input_city_info_country_margin_start">10dp</dimen>
+    <dimen name="input_city_info_country_field_text_size">20sp</dimen>
+    <dimen name="input_city_lan_comments_text_size">15sp</dimen>
+    <dimen name="input_city_info_country_field_margin_end">10dp</dimen>
+    <dimen name="input_city_info_lon_lon_field_example_margin_end">10dp</dimen>
+    <dimen name="input_city_info_lat_field_example_margin_end">10dp</dimen>
+    <dimen name="input_string_info_city_field_margin_end">10dp</dimen>
+    <dimen name="button_cancel_margin">10dp</dimen>
+    <dimen name="button_ok_margin">10dp</dimen>
+</resources>
